@@ -4,6 +4,8 @@
   list-style: none;
   text-decoration: none;
   box-sizing: border-box;
+  font-size: 14;
+  color: var(--secondary-color);
 }
 
 body {
